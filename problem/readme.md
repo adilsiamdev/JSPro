@@ -1,0 +1,1 @@
+odd and even show korate hobe:
