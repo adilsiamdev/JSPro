@@ -15,4 +15,9 @@ checkNumber(7);
 checkNumber(9);
 checkNumber(3);
 
-// Range(22, 2)
+
+function  checkOddEventNumber(num, maxNum){
+
+}
+
+// checkOddEventNumber(3, 22)
